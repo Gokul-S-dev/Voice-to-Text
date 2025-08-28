@@ -12,7 +12,7 @@ Designed with Bootstrap and custom styles for a clean, engaging user experience.
 
 ## Demo
 
-![Screenshot](screenshot.png) <!-- Add a screenshot if available -->
+![Screenshot](https://github.com/Gokul-S-dev/Voice-to-Text/blob/main/Screenshot%202025-08-28%20141215.png)
 
 ## How to Use
 
